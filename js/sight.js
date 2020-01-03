@@ -17,3 +17,7 @@ class SVGElement{
         return this;
     }
 }
+
+class Sight{
+    constructor(selector, width, height){}
+}
